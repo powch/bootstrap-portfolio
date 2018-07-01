@@ -1,3 +1,22 @@
-.grid > .discordApp {
+.discordApp, .placeHolder {
+    height: 200px;
+    width: 200px;
+    background-repeat: no-repeat;
+}
+
+.discordApp {
     background-image: url("../images/discord.png");
 }
+
+.discordApp p, .placeHolder p {
+    color: white;
+    background-color: teal;
+    width: 100%;
+    line-height: 3rem;
+    text-align: center;
+}
+
+.placeHolder {
+    background-image: url("https://www.fillmurray.com/200/200");
+}
+
