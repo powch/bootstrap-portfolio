@@ -21,6 +21,10 @@ section {
     margin-top: 150px;
 }
 
+.banner {
+    margin-top: 65%;
+}
+
 footer {
     background-color: #666666;
     border-top: 5px;
@@ -32,3 +36,4 @@ footer {
 footer p {
     text-align: center;
 }
+
